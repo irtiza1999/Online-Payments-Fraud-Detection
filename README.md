@@ -12,6 +12,8 @@ sharing our findings and insights, we hope to raise awareness about the issue an
 others to develop similar solutions. Ultimately, our goal is to help create a safer and more
 secure online payment ecosystem for all.
 
+**Dataset Link https://www.kaggle.com/datasets/kartik2112/fraud-detection**
+
 <br />
 
 ##### **This project was a part of my undergraduate course CSE422 (Artificial Intelligence)**
