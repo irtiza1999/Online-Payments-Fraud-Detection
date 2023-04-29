@@ -11,3 +11,11 @@ transactions but also on contributing to the larger effort to combat online paym
 sharing our findings and insights, we hope to raise awareness about the issue and inspire
 others to develop similar solutions. Ultimately, our goal is to help create a safer and more
 secure online payment ecosystem for all.
+
+<br />
+
+##### **This project was a part of my undergraduate course CSE422 (Artificial Intelligence)**
+---
+
+## **Language used**
+* Python
